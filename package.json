@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tea-Protocol/format"
+    "url": "https://github.com/Amaily/format"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tea-Protocol/format/issues"
+    "url": "https://github.com/Amaily/formatissues"
   },
-  "homepage": "https://github.com/Tea-Protocol/format#readme",
+  "homepage": "https://github.com/Amaily/format#readme",
   "dependencies": {
     "bignumber.js": "^9.0.1"
   }
